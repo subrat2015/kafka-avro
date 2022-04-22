@@ -1,0 +1,9 @@
+com/example/Customer.class
+com/example/CustomerV1$Builder.class
+com/example/CustomerV1.class
+com/subrat/evolution/SchemaEvolutionExamples.class
+com/subrat/generic/GenericRecordExamples.class
+com/example/Customer$Builder.class
+com/example/CustomerV2$Builder.class
+com/subrat/specific/SpecificRecordExamples.class
+com/example/CustomerV2.class
